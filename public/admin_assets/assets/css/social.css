@@ -1,0 +1,209 @@
+      .select_gap {
+        margin: 0px 12px;
+      }
+
+      .select_b-tags {
+        text-align: center;
+        margin-left: -40px;
+      }
+
+      .select_b-tags ul li {
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 8px;
+        margin-bottom: 14px;
+      }
+
+      .select_b-tags ul a {
+        display: inline-block;
+        padding: 8px 20px;
+        background: #dadada;
+        border-radius: 10px;
+        font-size: 14px;
+        color: black;
+        text-decoration: none;
+      }
+
+      .select_b-tags ul a:hover {
+        background: linear-gradient(135deg, #4e50e0 0%, #9f3cba 100%);
+        color: aliceblue;
+      }
+
+
+      .select_popup_button {
+        margin-right: 18px;
+        margin-top: 30px;
+        text-align: center;
+        background: linear-gradient(135deg, #4e50e0 0%, #9f3cba 100%);
+        padding: 10px 50px;
+        border-radius: 30px;
+        border: transparent;
+        float: right;
+        color: white;
+
+      }
+
+      .select_tag_container {
+        border: none !important;
+        width: 100%;
+        align-content: center;
+        padding-right: 15px;
+        padding-left: 15px;
+        padding-bottom: 15px;
+        padding-top: 25px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+      }
+
+      .select-popup-wrap {
+        display: block !important;
+        background-color: transparent;
+        height: auto;
+        padding: 20px;
+        margin: auto;
+
+      }
+
+      .select-popup-wrap .select-popup-wrapper {
+        position: absolute;
+        display: block;
+        background-color: #f2eeee;
+        padding: 10px 10px 20px 10px;
+        border-radius: 4px;
+        
+      }
+        
+      .select-popup-wrapper .select-popup-title {
+        text-align: center;
+        font-size: 20px;
+        font-weight: 700;
+        padding-bottom: 5px;
+      }
+
+      .select-popup-wrapper .select-popup-title2 {
+        text-align: center;
+        padding-bottom: 16px;
+      }
+
+      .select-btn-grp {
+        text-align: center;
+      }
+
+      .select-popup-save-button {
+        text-align: center;
+        background-color: #5cb85c;
+        padding: 10px 50px;
+        border-radius: 30px;
+        border: transparent;
+        color: white;
+        margin-top: 20px;
+        margin-right: 8px;
+      }
+
+      .select-popup-close-button {
+        text-align: center;
+        background-color: #e34141;
+        padding: 10px 50px;
+        border-radius: 30px;
+        border: transparent;
+        color: white;
+        margin-top: 20px;
+        margin-right: 10px;
+      }
+
+
+      #img-preview {
+        cursor: pointer;
+        transition: 0.3s;
+      }
+
+      #img-preview:hover {
+        opacity: 0.7;
+      }
+
+      .image-checkbox img {
+        border-radius: 4px !important;
+      }
+
+      .select_imageBox {
+        position: relative;
+        margin: 0px;
+        padding: 0px;
+        border-radius: 4px;
+        overflow: hidden;
+        max-width: 300px;
+      }
+
+      .imageBox .img-checkbox {
+        /*position: absolute !important;
+        border: 1px solid #c51b1b;
+        top: 0;
+        right: 2px;*/
+        width: 16px;
+        height: 16px;
+        margin-left: 3px !important;
+        background-color: red;
+
+      }
+
+      .imageBox input[type=checkbox] {
+        background-color: #912b2b !important;
+      }
+
+      .imageBox label {
+        font-size: 16px;
+      }
+
+      .btnImgClose {
+        width: 20px;
+        height: 20px;
+        margin-left: 3px !important;
+        color: white;
+        background-color: red;
+        border: none;
+        text-align: center;
+        padding: 0px 5px;
+      }
+
+      .btn-color-red {
+        background-color: #a6c;
+      }
+
+      .center-block {
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        width: 400px;
+        text-align: center;
+        margin: 0 auto;
+      }
+
+      .img12 {
+
+        vertical-align: middle;
+        border-style: none;
+
+      }
+
+      .mbb-70 {
+        padding-top: 20px;
+        padding-right: 20px;
+      }
+
+      .image-checkbox .popup-img {
+        width: 600px !important;
+        height: 358px !important;
+
+      }
+      .m-r{
+        margin-right: 20px;
+      }
+
+.selcet_page{
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.imageBox{
+    color: #aeacac;
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="231px" height="156px" viewBox="0 0 231 156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>personal-computer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M226.173,98.627 L94.563,98.627 C92.598,98.627 91,97.028 91,95.063 L91,12.563 C91,10.598 92.599,9 94.563,9 L226.173,9 C228.138,9 229.736,10.599 229.736,12.563 L229.736,95.063 C229.737,97.029 228.138,98.627 226.173,98.627 Z" id="path-1"></path>
+        <filter x="-13.3%" y="-7.3%" width="118.0%" height="127.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-12" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.226352243   0 0 0 0 0.633504625   0 0 0 0 0.894398384  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="27" height="26"></rect>
+        <rect id="path-4" x="30.3333333" y="0" width="27" height="26"></rect>
+        <rect id="path-5" x="60.6666667" y="0" width="27" height="26"></rect>
+        <rect id="path-6" x="91" y="0" width="27" height="26"></rect>
+        <rect id="path-7" x="0" y="0" width="27" height="26"></rect>
+        <rect id="path-8" x="30.3333333" y="0" width="27" height="26"></rect>
+        <rect id="path-9" x="60.6666667" y="0" width="27" height="26"></rect>
+        <rect id="path-10" x="91" y="0" width="27" height="26"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="streaming-" transform="translate(-350.000000, -4949.000000)">
+            <g id="Group-20" transform="translate(295.000000, 4451.000000)">
+                <g id="Group-45" transform="translate(1.000000, 498.000000)">
+                    <g id="Group-18">
+                        <g id="personal-computer" transform="translate(54.000000, 0.000000)">
+                            <path d="M199.78,118.966 L68.17,118.966 C66.205,118.966 64.607,117.367 64.607,115.402 L64.607,32.902 C64.607,30.937 66.206,29.339 68.17,29.339 L199.78,29.339 C201.745,29.339 203.343,30.938 203.343,32.902 L203.343,115.402 C203.344,117.368 201.745,118.966 199.78,118.966 Z M163.309,145.005 L149.976,145.005 L149.976,128.966 L117.976,128.966 L117.976,145.005 L104.642,145.005 C101.88,145.005 99.642,147.243 99.642,150.005 C99.642,152.767 101.88,155.005 104.642,155.005 L122.976,155.005 L144.976,155.005 L163.309,155.005 C166.071,155.005 168.309,152.767 168.309,150.005 C168.309,147.244 166.07,145.005 163.309,145.005 Z M79.844,19.338 L68.17,19.338 C67.44,19.338 66.729,19.412 66.029,19.524 C65.618,19.415 65.195,19.338 64.75,19.338 L15.094,19.338 C12.332,19.338 10.094,21.576 10.094,24.338 C10.094,27.1 12.332,29.338 15.094,29.338 L55.098,29.338 C54.787,30.476 54.607,31.667 54.607,32.901 L54.607,42.21 L15.094,42.21 C12.332,42.21 10.094,44.448 10.094,47.21 C10.094,49.972 12.332,52.21 15.094,52.21 L54.607,52.21 L54.607,65.083 L15.094,65.083 C12.332,65.083 10.094,67.321 10.094,70.083 C10.094,72.845 12.332,75.083 15.094,75.083 L54.607,75.083 L54.607,115.401 C54.607,122.88 60.692,128.965 68.17,128.965 L79.844,128.965 L79.844,150.004 C79.844,152.766 77.606,155.004 74.844,155.004 L5,155.004 C2.238,155.004 0,152.766 0,150.004 L0,5.338 C0,2.576 2.238,0.338 5,0.338 L74.844,0.338 C77.606,0.338 79.844,2.576 79.844,5.338 L79.844,19.338 Z M32.214,118.064 C32.214,122.321 35.665,125.772 39.922,125.772 C44.179,125.772 47.63,122.321 47.63,118.064 C47.63,113.807 44.179,110.356 39.922,110.356 C35.665,110.356 32.214,113.807 32.214,118.064 Z" id="Shape" fill="#56BDFF" fill-rule="nonzero"></path>
+                            <g id="Path">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use stroke="#FFFFFF" stroke-width="1" fill="#00578E" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <g id="Group-16" transform="translate(102.000000, 30.000000)">
+                                <g id="Rectangle-7">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                    <rect stroke="#FFFFFF" stroke-width="1" x="0.5" y="0.5" width="26" height="25"></rect>
+                                </g>
+                                <g id="Rectangle-7-Copy">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                    <rect stroke="#FFFFFF" stroke-width="1" x="30.8333333" y="0.5" width="26" height="25"></rect>
+                                </g>
+                                <g id="Rectangle-7-Copy-2">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                    <rect stroke="#FFFFFF" stroke-width="1" x="61.1666667" y="0.5" width="26" height="25"></rect>
+                                </g>
+                                <g id="Rectangle-7-Copy-3">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                                    <rect stroke="#FFFFFF" stroke-width="1" x="91.5" y="0.5" width="26" height="25"></rect>
+                                </g>
+                            </g>
+                            <g id="Group-16-Copy" transform="translate(102.000000, 60.000000)">
+                                <g id="Rectangle-7">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                    <rect stroke="#FFFFFF" stroke-width="1" x="0.5" y="0.5" width="26" height="25"></rect>
+                                </g>
+                                <g id="Rectangle-7-Copy">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                                    <rect stroke="#FFFFFF" stroke-width="1" x="30.8333333" y="0.5" width="26" height="25"></rect>
+                                </g>
+                                <g id="Rectangle-7-Copy-2">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                                    <rect stroke="#FFFFFF" stroke-width="1" x="61.1666667" y="0.5" width="26" height="25"></rect>
+                                </g>
+                                <g id="Rectangle-7-Copy-3">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"></use>
+                                    <rect stroke="#FFFFFF" stroke-width="1" x="91.5" y="0.5" width="26" height="25"></rect>
+                                </g>
+                            </g>
+                            <circle id="Oval-5" fill="#FFFFFF" cx="218.5" cy="18.5" r="1.5"></circle>
+                            <circle id="Oval-5-Copy" fill="#FFFFFF" cx="213.5" cy="18.5" r="1.5"></circle>
+                            <circle id="Oval-5-Copy-2" fill="#FFFFFF" cx="207.5" cy="18.5" r="1.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="129px" height="131px" viewBox="0 0 129 131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>video-player</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="streaming-" transform="translate(-1465.000000, -4961.000000)" fill-rule="nonzero">
+            <g id="Group-20" transform="translate(295.000000, 4451.000000)">
+                <g id="Group-45" transform="translate(1.000000, 498.000000)">
+                    <g id="Group-43" transform="translate(1140.000000, 12.000000)">
+                        <g id="video-player" transform="translate(29.000000, 0.000000)">
+                            <rect id="Rectangle-path" fill="#56BDFF" x="0" y="0" width="129" height="131"></rect>
+                            <polygon id="Shape" fill="#FFFFFF" points="57 61 57 43.8882857 57 27 84 44"></polygon>
+                            <rect id="Rectangle-path" fill="#00578E" x="0" y="87" width="129" height="44"></rect>
+                            <path d="M114.53125,111 L40.46875,111 C39.1035312,111 38,110.106 38,109 C38,107.894 39.1035312,107 40.46875,107 L114.53125,107 C115.896469,107 117,107.894 117,109 C117,110.106 115.896469,111 114.53125,111 Z" id="Shape" fill="#082F47"></path>
+                            <path d="M14,119 C12.894,119 12,117.8825 12,116.5 L12,101.5 C12,100.1175 12.894,99 14,99 C15.106,99 16,100.1175 16,101.5 L16,116.5 C16,117.8825 15.106,119 14,119 Z" id="Shape" fill="#FFFFFF"></path>
+                            <path d="M24,119 C22.894,119 22,117.8825 22,116.5 L22,101.5 C22,100.1175 22.894,99 24,99 C25.106,99 26,100.1175 26,101.5 L26,116.5 C26,117.8825 25.106,119 24,119 Z" id="Shape" fill="#FFFFFF"></path>
+                            <path d="M52,107 L40.3333333,107 C39.043,107 38,107.894 38,109 C38,110.106 39.043,111 40.3333333,111 L52,111 L52,107 Z" id="Shape" fill="#3AA2E4"></path>
+                            <path d="M52,119 C50.894,119 50,117.8825 50,116.5 L50,101.5 C50,100.1175 50.894,99 52,99 C53.106,99 54,100.1175 54,101.5 L54,116.5 C54,117.8825 53.106,119 52,119 Z" id="Shape" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
